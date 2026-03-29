@@ -31,6 +31,7 @@ But instead of checking facts, we answer:
 > “How easily do examples come to mind?”
 
 👉 The easier it is to recall something, the more true or common we think it is — even when it’s not.
+<img width="1448" height="974" alt="image" src="https://github.com/user-attachments/assets/305cb479-10d9-47c5-a2df-e80e411a745a" />
 
 ---
 
@@ -50,6 +51,7 @@ In this bias:
 
 If you constantly hear praise about a colleague, you expect them to perform well —  
 because System 1 already formed that impression.
+
 
 ---
 
