@@ -16,7 +16,7 @@ jobs:
       - name: Generate sitemap
         uses: cicirello/generate-sitemap@v1.10.4
         with:
-          base-url-path: https://lylazhao.github.io/
+          base-url-path: https://lylazhao.com/
 
       - name: Commit sitemap
         uses: stefanzweifel/git-auto-commit-action@v5
