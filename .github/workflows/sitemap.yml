@@ -17,3 +17,8 @@ jobs:
         uses: cicirello/generate-sitemap@v1.10.4
         with:
           base-url-path: https://lylazhao.github.io/
+
+      - name: Commit sitemap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update sitemap"
