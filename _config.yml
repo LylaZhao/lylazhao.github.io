@@ -2,3 +2,6 @@ title: Lyla Zhao
 description: Personal blog and notes.
 theme: minima
 show_excerpts: true
+
+- name: generate-sitemap
+  uses: cicirello/generate-sitemap@v1.10.4
