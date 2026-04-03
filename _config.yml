@@ -2,3 +2,5 @@ title: Lyla Zhao
 description: Personal blog and notes.
 theme: minima
 show_excerpts: true
+plugins:
+  - jekyll-sitemap
