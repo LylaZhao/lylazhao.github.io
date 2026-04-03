@@ -1,6 +1,6 @@
 ---
 title: "Regression to the Mean: Why Performance Doesn’t Last"
-date: 2025-05-05
+date: 2026-04-03
 ---
 
 This is a reading note from *Thinking, Fast and Slow* by Daniel Kahneman (Chapter 17: Regression to the Mean).
