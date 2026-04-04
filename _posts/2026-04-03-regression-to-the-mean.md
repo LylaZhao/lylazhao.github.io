@@ -88,7 +88,7 @@ At the end of the chapter, Kahneman presents a practical problem:
 
 A natural approach is:
 
-$yi=1.1xi$
+$$y_i=1.1x_i$$
 
 Just increase every store by 10%.
 
@@ -113,23 +113,23 @@ In other words, the forecast should be **regressive.** It should move values clo
 
 ### Step 1: Find the average sales in 2011
 
-$\bar{x} = 81 / 4 = 20.25$
+$$\bar{x} = 81 / 4 = 20.25$$
 
 ### Step 2: Find the average sales in 2012
 
-$\bar{y} = 89.1 / 4 = 22.275$
+$$\bar{y} = 89.1 / 4 = 22.275$$
 
 ### Step 3: Apply a regressive forecast
 
-$\hat{y}_i = 1.1(\bar{x} + r(x_i - \bar{x}))$
+$$\hat{y}_i = 1.1(\bar{x} + r(x_i - \bar{x}))$$
 
 Substitute values:
 
-$\hat{y}_i = 1.1(20.25 + r(x_i - 20.25))$
+$$\hat{y}_i = 1.1(20.25 + r(x_i - 20.25))$$
 
 Equivalent form:
 
-$\hat{y}_i = 22.275 + 1.1r(x_i - 20.25)$
+$$\hat{y}_i = 22.275 + 1.1r(x_i - 20.25)$$
 
 ## What This Formula Means
 
